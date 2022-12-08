@@ -7,6 +7,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
 }
 else
 {
+    $recepient = "krizhovetz@gmail.com";
+$sitename = "Krizhovets";
+
+$name = trim($_POST["name"]);
+$email = trim($_POST["email"]);
+$text = trim($_POST["text"]);
+$message = "Name: $name \nEmail: $email \nText: $text";
+
+$pagetitle = "New message from the \"$sitename\"";
+mail($recepient, $pagetitle, $message, "Content-type: text/plain; charset=\"utf-8\"\n From: $recepient");
+}
 ?>
 <!doctype html>
 <html lang="en">
@@ -1410,7 +1421,7 @@ else
                     <div class="art-a art-card">
 
                       <!-- contact form -->
-                      <form id="form" class="art-contact-form">
+                      <form id="form" class="art-contact-form" action>
                         <!-- form field -->
                         <div class="art-form-field">
                           <!-- name input -->
