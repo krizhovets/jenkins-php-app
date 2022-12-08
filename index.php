@@ -86,7 +86,7 @@ else
               </div>
               <!-- avatar end -->
               <!-- name -->
-              <h5 class="art-name mb-10">Vladimir Krizhovets</h5>
+              <h5 class="art-name mb-10">Vladimir Kara</h5>
               <!-- post -->
               <div class="art-sm-text">DevOps <br>System Administrator</div>
             </div>
