@@ -13,7 +13,7 @@ else
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Vladimir Krizhovets</title>
+    <title>Volodymyr Kryzhovets</title>
 
     
      <!-- Required meta tags -->
@@ -86,7 +86,7 @@ else
               </div>
               <!-- avatar end -->
               <!-- name -->
-              <h5 class="art-name mb-10">Vladimir Kara</h5>
+              <h5 class="art-name mb-10">Volodymyr Kryzhovets</h5>
               <!-- post -->
               <div class="art-sm-text">DevOps <br>System Administrator</div>
             </div>
@@ -324,7 +324,7 @@ else
                         <!-- main title -->
                         <div class="art-banner-title">
                           <!-- title -->
-                          <h1 class="mb-15">Vladimir<br>Krizhovets</h1>
+                          <h1 class="mb-15">Volodymyr<br>Kryzhovets</h1>
                           <!-- suptitle -->
                           <div class="art-lg-text art-code mb-25">&lt;<i>code</i>&gt; I deploy <span class="txt-rotate" data-period="2000"
                               data-rotate='[ "web interfaces.", "ios and android applications.", "automation tools." ]'></span>&lt;/<i>code</i>&gt;</div>
@@ -1531,7 +1531,7 @@ else
       <!-- preloader content -->
       <div class="art-preloader-content">
         <!-- title -->
-        <h4>Vladimir Krizhovets</h4>
+        <h4>Volodymyr Kryzhovets</h4>
         <!-- progressbar -->
         <div id="preloader" class="art-preloader-load"></div>
       </div>
